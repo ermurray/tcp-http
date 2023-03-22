@@ -10,6 +10,12 @@ LightHouse labs webFlex lecture on basic networking
 * [ ] examples with NodeJS
 
 ### Networking
+                                                          https://www.google.com
+ Local IP                       External IP:Port                  (maps domain to ip)       (external ===> internal IP)
+computer/phone/tablet <=======>router/modem  <=====> ISP <=============> DNS <===========> Device
+( our internal network                     )        ( the Web                 )           ( other private network)
+(Per-Device MAC: address )
+
 * The Internet
   * Connection of computers
   * wired or wireless connection between computers
